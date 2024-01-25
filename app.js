@@ -1,5 +1,5 @@
 let listaNumSort = [];
-let limiteNum = 100;
+let limiteNum = 200;
 let numeroSecreto = numeroAleatorio();
 let tentativas = 1;
 
